@@ -92,14 +92,9 @@
 
 ## 📫 Connect With Me
 
-* 📧 Email: ay6598aditya@gmail.com(mailto:your-email@gmail.com)
-* 💼 LinkedIn: (add later)
+* 📧 Email: ay6598aditya@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/mynetwork/grow/
 
----
-
-## ⚡ Fun Fact
-
-👉 I code using my phone and still build real-world projects 🚀
 
 ---
 
