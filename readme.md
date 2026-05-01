@@ -45,7 +45,7 @@
 
 ### 🌐 Portfolio Website
 
-🔗 https://github.com/adityayadav176/My-Portfolio.2.0
+🔗 [https://github.com/adityayadav176/My-Portfolio.2.0](https://adityayadav176.github.io/My-Portfolio.2.0/)
 
 * Personal portfolio using HTML, CSS, JavaScript
 
@@ -55,6 +55,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adityayadav176&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=adityayadav176&show_icons=true&theme=radical" />
 </p>
 
 ---
