@@ -1,0 +1,100 @@
+<!-- 🔥 Custom Banner -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:007BFF&height=200&section=header&text=Aditya%20Yadav&fontSize=40&fontColor=ffffff" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Aditya Yadav</h1>
+
+<!-- ⚡ Animated Typing Effect -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;DSA+Learner;Building+Real+Projects;Future+Software+Engineer" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 💻 BCA Student passionate about development
+* 🌱 Currently learning **Node.js, React, MongoDB**
+* 📱 I build projects using my phone
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🚀 Working on **Real-Time Chat Application**
+
+---
+
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,js,html,css,nodejs,mongodb,react" />
+</p>
+
+---
+
+## 💼 Projects
+
+### 💬 Chat App (Ongoing)
+
+🔗 https://github.com/adityayadav176
+
+* Real-time messaging using Node.js & MongoDB
+* Learning WebSockets & TCP/IP
+
+---
+
+### 🌐 Portfolio Website
+
+🔗 https://github.com/adityayadav176/My-Portfolio.2.0
+
+* Personal portfolio using HTML, CSS, JavaScript
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityayadav176&show_icons=true&theme=radical" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=adityayadav176&theme=radical" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityayadav176&theme=react-dark" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+* 📧 Email: ay6598aditya@gmail.com(mailto:your-email@gmail.com)
+* 💼 LinkedIn: (add later)
+
+---
+
+## ⚡ Fun Fact
+
+👉 I code using my phone and still build real-world projects 🚀
+
+---
+
+<!-- 🔥 Footer Banner -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007BFF,100:00F7FF&height=120&section=footer"/>
+</p>
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen)
