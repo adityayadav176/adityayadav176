@@ -43,6 +43,18 @@
 
 ---
 
+### 🚀 Workspace Pro App
+
+🔗 Live Demo: https://work-space-pro-frontend-l8bx.vercel.app/
+🔗 GitHub Repo - Frountend : https://github.com/adityayadav176/WorkSpacePro-Frontend
+🔗 GitHub Repo - Backend : https://github.com/adityayadav176/WorkSpacePro-Backend
+
+* 📱 Real-world productivity application
+* ⚡ Built with modern web technologies
+* 🔐 Includes authentication & core features
+* 🌐 Fully deployed and accessible online
+
+
 ### 🌐 Portfolio Website
 
 🔗 https://my-portfolio-2-0-beta.vercel.app/
