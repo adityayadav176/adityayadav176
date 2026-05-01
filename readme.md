@@ -101,14 +101,15 @@
 * 💼 LinkedIn: https://www.linkedin.com/mynetwork/grow/
 
 
-![Snake animation](https://github.com/adityayadav176/adityayadav176/blob/output/github-contribution-grid-snake.svg)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityayadav176&theme=github" />
-
 ## 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityayadav176&theme=react-dark" />
 </p>
 ---
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/adityayadav176" />
+</p>
 
 <!-- 🔥 Footer Banner -->
 
