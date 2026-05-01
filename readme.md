@@ -45,7 +45,7 @@
 
 ### 🌐 Portfolio Website
 
-🔗 [https://github.com/adityayadav176/My-Portfolio.2.0](https://adityayadav176.github.io/My-Portfolio.2.0/)
+🔗 https://my-portfolio-2-0-beta.vercel.app/
 
 * Personal portfolio using HTML, CSS, JavaScript
 
