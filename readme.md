@@ -92,11 +92,6 @@
 
 ## 📫 Connect With Me
 
-## 📅 Contribution Calendar
-<p align="center">
-  <img src="https://ghchart.rshah.org/adityayadav176" />
-</p>
-
 * 📧 Email: ay6598aditya@gmail.com
 * 💼 LinkedIn: https://www.linkedin.com/mynetwork/grow/
 
@@ -106,10 +101,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityayadav176&theme=react-dark" />
 </p>
 ---
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/adityayadav176" />
-</p>
 
 <!-- 🔥 Footer Banner -->
 
