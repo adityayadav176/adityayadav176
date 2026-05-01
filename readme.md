@@ -96,11 +96,12 @@
 * 💼 LinkedIn: https://www.linkedin.com/mynetwork/grow/
 
 
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adityayadav176&theme=react-dark" />
-</p>
 ---
+
+## 📅 Contribution Calendar
+<p align="center">
+  <img src="https://ghchart.rshah.org/adityayadav176" />
+</p>
 
 <!-- 🔥 Footer Banner -->
 
