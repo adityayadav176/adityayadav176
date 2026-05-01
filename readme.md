@@ -92,7 +92,7 @@
 ## 📫 Connect With Me
 
 * 📧 Email: ay6598aditya@gmail.com
-* 💼 LinkedIn: https://www.linkedin.com/mynetwork/grow/
+* 💼 LinkedIn: https://www.linkedin.com/in/aditya-yadav-431675370/
 
 
 ---
