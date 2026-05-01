@@ -96,6 +96,7 @@
 * 💼 LinkedIn: https://www.linkedin.com/mynetwork/grow/
 
 
+![Snake animation](https://github.com/adityayadav176/adityayadav176/blob/output/github-contribution-grid-snake.svg)
 ---
 
 <!-- 🔥 Footer Banner -->
