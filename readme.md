@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-* 💻 BCA Student passionate about development
+
 * 🌱 Currently learning **Node.js, React, MongoDB**
 * 🧠 Practicing **Data Structures & Algorithms**
 * 🚀 Working on **Real-Time Chat Application**
