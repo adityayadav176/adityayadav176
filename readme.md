@@ -27,6 +27,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,js,html,css,nodejs,mongodb,react" />
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,mongodb,mysql)](https://skillicons.dev)
 </p>
 
 ---
